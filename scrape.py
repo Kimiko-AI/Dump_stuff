@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import csv
 #URL = "https://www.rpnation.com/threads/i-was-fine-until-you.482241/"
 #num = 39
 def scrape(URL, num, title):
